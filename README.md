@@ -1,1 +1,1 @@
-adoiasdskji
+To jest plik README
